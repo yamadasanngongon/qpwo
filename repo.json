@@ -21,7 +21,6 @@
       "description": "Roisecord discord",
       "bundleID": "com.hammerandchisel.discord",
       "appstore": "com.hammerandchisel.discord"
-    },
     }
   ]
 }
