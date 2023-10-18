@@ -1,0 +1,15 @@
+{
+  "META": {
+    "repoName": "Esign",
+    "repoIcon": "https://images-ext-2.discordapp.net/external/_Is1xzmCLvZ86JbLvghutKFJVqBD7-vJWY1sT_Ljk64/https/apps.nabzclan.vip/images/1687264217.webp"
+  },
+  "Tweaked": [
+    {
+      "name": "Esign",
+      "version": "4.8.2",
+      "down": "https://api.casp.dev/sign/unsigned/esign.ipa",
+      "category": "Tweaked Apps",
+      "description": "Esign.",
+      "bundleID": "p3.xyz.yyyue.esign",
+      "appstore": "p3.xyz.yyyue.esign"
+    },
