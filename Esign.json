@@ -7,13 +7,15 @@
     {
       "name": "Esign",
       "version": "4.8.2",
+      
       "down": "https://api.casp.dev/sign/unsigned/esign.ipa",
       "category": "Tweaked Apps",
       "description": "Esign.",
       "bundleID": "p3.xyz.yyyue.esign",
     {
       "name": "Roisecord",
-      "version": "0.285.1",
+      "version": "195.0",
+      "icon": "https://images-ext-1.discordapp.net/external/dJi9aXxKYQk_GMRP77qHnolQCNhFQUWvYzH5m4WvbGU/%3Fq%3Dtbn%3AANd9GcSHBDyV1snonezuv42GL3WsoJfuX4IXsa-AXw%26usqp%3DCAU/https/encrypted-tbn0.gstatic.com/images"，
       "down": "https://github.com/acquitelol/rosiecord/releases/download/rosiecord_195/Rosiecord-195_Cabin-Font%2BFlowercord.ipa",
       "category": "Tweaks Apps",
       "description": "Roisecord discord",
