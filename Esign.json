@@ -11,6 +11,16 @@
       "category": "Tweaked Apps",
       "description": "Esign.",
       "bundleID": "p3.xyz.yyyue.esign",
+    {
+      "name": "Roisecord",
+      "version": "0.285.1",
+      "down": "https://github.com/acquitelol/rosiecord/releases/download/rosiecord_195/Rosiecord-195_Cabin-Font%2BFlowercord.ipa",
+      "category": "Tweaks Apps",
+      "description": "Roisecord discord",
+      "bundleID": "com.hammerandchisel.discord",
+      "appstore": "com.hammerandchisel.discord"
+    },
+    {
     }
   ]
 }
