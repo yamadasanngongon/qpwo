@@ -24,7 +24,7 @@
           <key>DNSProtocol</key>
           <string>HTTPS</string>
           <key>ServerURL</key>
-          <string>https://ultralow1.dns.nextdns.io//efbfee</string>
+          <string>https://ultralow1.dns.nextdns.io/efbfee</string>
         </dict>
         <key>OnDemandRules</key>
         <array>
